@@ -1,0 +1,24 @@
+{
+  "name": "webptp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebPTP/webptp.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebPTP/webptp.js/issues"
+  },
+  "homepage": "https://github.com/WebPTP/webptp.js#readme",
+  "dependencies": {
+    "asn1.js": "^5.4.1",
+    "safer-buffer": "^2.1.2",
+    "url-search-params-polyfill": "^8.2.5"
+  }
+}
